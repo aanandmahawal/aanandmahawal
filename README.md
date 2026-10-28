@@ -75,5 +75,3 @@ I'm a Data Scientist at Tredence and an NIT Kurukshetra '26 graduate. I started 
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aanandmahawal&theme=dark&hide_border=true&layout=compact" alt="Top languages"/>
 </p>
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=aanandmahawal&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/></p>
